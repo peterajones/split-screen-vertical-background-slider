@@ -1,0 +1,14 @@
+{
+  "name": "background-slider",
+  "version": "1.0.0",
+  "description": "AA Traversy Media project",
+  "video": "https://www.youtube.com/watch?v=JkeyKeK3V24",
+  "repo": "https://github.com/bradtraversy/50projects50days/tree/master/background-slider",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
