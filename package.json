@@ -4,6 +4,7 @@
   "description": "AA Traversy Media project",
   "video": "https://www.youtube.com/watch?v=JkeyKeK3V24",
   "repo": "https://github.com/bradtraversy/50projects50days/tree/master/background-slider",
+  "this repo": "https://github.com/peterajones/split-screen-vertical-background-slider",
   "main": "scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
